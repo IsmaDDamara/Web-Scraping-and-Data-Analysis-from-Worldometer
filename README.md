@@ -50,4 +50,5 @@ This project demonstrates web scraping and data analysis using Python. Data is s
 **Isma Dian Damara**
 
 - GitHub: https://github.com/IsmaDDamara
-- Email: ismadiandamara@gmail.com
+- Portfolio: https://www.datascienceportfol.io/ismadiandamara
+- Email: ismadiandamara18@gmail.com
